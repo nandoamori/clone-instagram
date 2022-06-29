@@ -4,5 +4,6 @@
 
 * HTML 
 * CSS 
+* JAVASCRIPT
 
 ## 🚀 Let's code! 🚀
